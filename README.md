@@ -15,7 +15,7 @@ A multi-AZ web platform on AWS, built to practice deployment, IAM, monitoring, a
 ## Break-fix incident reports
 | # | Failure | Report |
 |---|---------|--------|
-| 1 | S3 bucket policy lockout | runbooks/01-s3-lockout.md |
+| 1 | S3 bucket policy lockout | [Report](runbooks/01-s3-lockout.md) |
 
 ## What I learned
 (short notes, updated after each lab)
