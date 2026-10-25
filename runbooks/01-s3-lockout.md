@@ -44,17 +44,16 @@ session). CloudTrail shows DeleteBucketPolicy by root with no error code.
 - Evaluation order: explicit Deny > explicit Allow > implicit deny
 - The console message pointed to a missing Allow, but the cause was a Deny
 - Console error text is a starting point, not a diagnosis
-  ## Evidence
 
-## Evidence
+ ## Evidence
 
 **Failure**
 
-![Console error listing objects](../screenshots/01-list-objects-error.png)
-![CloudTrail: PutBucketPolicy](../screenshots/01-cloudtrail-putbucketpolicy.png)
-![Amazon Q diagnosis](../screenshots/01-amazon-q-diagnosis.png)
+![Console error listing objects](../screenshots/01-list-objects-error.png.png)
+![CloudTrail: PutBucketPolicy](../screenshots/01-cloudtrail-putbucketpolicy.png.png)
+![Amazon Q diagnosis](../screenshots/01-amazon-q-diagnosis.png.png)
 
 **Recovery**
 
 ![CloudTrail: DeleteBucketPolicy by root](../screenshots/01-cloudtrail-deletebucketpolicy.png)
-![Bucket restored, hello.txt listed](../screenshots/01-bucket-restored.png)
+![Bucket restored, hello.txt listed](../screenshots/01-bucket-restored.png.png)
