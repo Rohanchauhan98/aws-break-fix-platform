@@ -46,6 +46,8 @@ session). CloudTrail shows DeleteBucketPolicy by root with no error code.
 - Console error text is a starting point, not a diagnosis
   ## Evidence
 
+## Evidence
+
 **Failure**
 
 ![Console error listing objects](../screenshots/01-list-objects-error.png)
