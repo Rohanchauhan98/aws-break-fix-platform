@@ -17,5 +17,7 @@ A multi-AZ web platform on AWS, built to practice deployment, IAM, monitoring, a
 |---|---------|--------|
 | 1 | S3 bucket policy lockout | [Report](runbooks/01-s3-lockout.md) |
 
+| 3 | EC2 denied access to S3 (IAM policy typo) | [Report](runbooks/03-iam-s3-denied.md) |
+
 ## What I learned
 (short notes, updated after each lab)
