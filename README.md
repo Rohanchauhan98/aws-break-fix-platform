@@ -19,5 +19,6 @@ A multi-AZ web platform on AWS, built to practice deployment, IAM, monitoring, a
 | 2 | Web server timeout (security group) | [Report](runbooks/02-sg-timeout.md) |
 | 3 | EC2 denied access to S3 (IAM policy typo) | [Report](runbooks/03-iam-s3-denied.md) |
 | 4 | Disk full on EC2 (CloudWatch alarm) | [Report](runbooks/04-disk-full.md) |
+| 5 | Web server timeout (missing internet route) | [Report](runbooks/05-missing-route.md) |
 ## What I learned
 (short notes, updated after each lab)
