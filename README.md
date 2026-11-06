@@ -22,5 +22,6 @@ A multi-AZ web platform on AWS, built to practice deployment, IAM, monitoring, a
 | 5 | Web server timeout (missing internet route) | [Report](runbooks/05-missing-route.md) |
 | 6 | ALB 504: unhealthy targets (security group chain) | [Report](runbooks/06-alb-504-unhealthy-targets.md) |
 | 7 | Wrong health check path (ASG replacement loop) | [Report](runbooks/07-bad-health-check-path.md) |
+| 8 | Private subnet lost internet (missing NAT route) | [Report](runbooks/08-missing-nat-route.md) |
 ## What I learned
 (short notes, updated after each lab)
