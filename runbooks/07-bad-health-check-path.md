@@ -2,12 +2,6 @@
 
 **Severity:** High in production (lab here) | **Region:** ap-southeast-2
 
-## Timeline (UTC)
-- [time]: Baseline: 2 healthy targets behind the ALB
-- [time]: Health check path changed from /health to /healthcheck
-- Targets turned Unhealthy (404); ASG began terminating and replacing instances
-- [time]: Path restored; targets healthy; replacements stopped
-
 ## Symptom
 All targets unhealthy and the ASG repeatedly replacing instances. Site behavior
 during the fault: [describe what you saw].
