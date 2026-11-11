@@ -24,5 +24,6 @@ A multi-AZ web platform on AWS, built to practice deployment, IAM, monitoring, a
 | 7 | Wrong health check path (ASG replacement loop) | [Report](runbooks/07-bad-health-check-path.md) |
 | 8 | Private subnet lost internet (missing NAT route) | [Report](runbooks/08-missing-nat-route.md) |
 | 9 | App can't reach DB (security group) | [Report](runbooks/09-db-sg-timeout.md) |
+| 10 | Database stopped (incident response) | [Report](runbooks/10-rds-stopped.md) |
 ## What I learned
 (short notes, updated after each lab)
