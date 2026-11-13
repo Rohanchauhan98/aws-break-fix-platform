@@ -44,3 +44,5 @@ roles, and shell access used Session Manager.
 - `iam/` policy JSON
 - `architecture/` diagram
 - `screenshots/` redacted evidence
+
+**Monitoring:** CloudTrail-to-CloudWatch change alarms, nginx log alarms, and a dashboard. See [monitoring/](monitoring/README.md).
