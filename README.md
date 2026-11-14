@@ -46,3 +46,5 @@ roles, and shell access used Session Manager.
 - `screenshots/` redacted evidence
 
 **Monitoring:** CloudTrail-to-CloudWatch change alarms, nginx log alarms, and a dashboard. See [monitoring/](monitoring/README.md).
+
+**Infrastructure as code:** the stack is reproducible with Terraform. See [terraform/](terraform/README.md).
